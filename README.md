@@ -1,3 +1,3 @@
 # CS-230
-This is for CS 230 Deep Learning \newline
+This is for CS 230 Deep Learning
 Blablablalblabla...
